@@ -10,6 +10,7 @@ It's helps car reparing workshop management team to track the work of mechanics 
 <img width="200" alt="Screenshot_20251002-145653" src="https://github.com/user-attachments/assets/02316ffd-ebf6-4920-bfc7-6c6e6aae8ac6" />
 <img width="200" alt="HomeScreen" src="https://github.com/user-attachments/assets/0d690301-c0aa-4b27-895f-cd06ba7639c8" />
 <img width="200" alt="AsignDefectsList" src="https://github.com/user-attachments/assets/d6efc957-325c-4e58-b04b-c96b1e542bda" />
+<img width="200"  alt="SearchDefects" src="https://github.com/user-attachments/assets/3c3e552f-b1a5-4d55-84a5-40939ad14661" />
 <img width="200" alt="JobsUnderAsignDefects" src="https://github.com/user-attachments/assets/3e7c2947-1ef0-46ba-a907-5ba55ade7d3e" />
 <img width="200" alt="JobDetails" src="https://github.com/user-attachments/assets/45dd342d-7e1e-4471-80b9-05ace658db27" />
 <img width="200" alt="JobDialogs" src="https://github.com/user-attachments/assets/b5879fca-2ca2-4e76-a42d-ecd5b058ab02" />
