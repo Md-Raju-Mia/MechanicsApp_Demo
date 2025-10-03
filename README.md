@@ -4,6 +4,8 @@
 
 It's helps car reparing workshop management team to track the work of mechanics and also asign them different works by using the admin dashboard.
 
+Developed Using Kotlin-MVVM.
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img width="200" alt="Screenshot_20251002-145640" src="https://github.com/user-attachments/assets/17c34b44-3d3b-4cba-b76d-ae144d548644" />
 <img width="200" alt="OnboardingPage" src="https://github.com/user-attachments/assets/263300a3-2701-4faf-8aef-e9b8fa536f00" />
